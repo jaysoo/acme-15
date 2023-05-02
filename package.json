@@ -1,0 +1,24 @@
+{
+  "name": "acme15",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {
+  },
+  "private": true,
+  "dependencies": {
+  },
+  "devDependencies": {
+    "nx": "15.9.3",
+    "@nrwl/aws-lambda": "^15.9.0",
+    "@nrwl/cypress": "^15.9.0",
+    "@nrwl/gatsby": "^14.0.0",
+    "@nrwl/netlify": "^15.9.0",
+    "@nrwl/jest": "^15.9.0",
+    "@nrwl/webpack": "^15.9.0",
+    "@nrwl/react": "^15.9.0",
+    "@nrwl/web": "^15.9.0",
+    "@nrwl/remix": "^15.9.0",
+    "@nrwl/rspack": "^15.9.0",
+    "@nrwl/workspace": "15.9.3"
+  }
+}
